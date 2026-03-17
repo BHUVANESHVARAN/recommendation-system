@@ -1,0 +1,22 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "domain": "Engineering",
+            "name": "B.Tech Computer Science",
+            "description": "Focuses on programming, software, and hardware."
+        },
+        {
+            "id": 2,
+            "domain": "Medical",
+            "name": "MBBS",
+            "description": "Medicine and surgery."
+        },
+        {
+            "id": 3,
+            "domain": "Commerce",
+            "name": "B.Com",
+            "description": "Accounting, finance, and business."
+        }
+    ]
+}
